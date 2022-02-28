@@ -1,2 +1,2 @@
 # projecto_django
-Projeto para 
+Projeto para desenvolvimento
